@@ -1,5 +1,5 @@
 # letterboxer
-Letterboxing for Unity
+Letter-boxing and pillar-boxing for Unity
 
 A Unity component that you attach to your scene cameras to allow letter (and pillar) boxing.
 
